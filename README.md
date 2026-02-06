@@ -33,10 +33,21 @@ The ARMA model combines:
 - Economic indicator prediction
 
 ## Installation & Usage
-[Add your installation and usage instructions here]
+pyhton - 3.0
+numpy
+yfinance
+sklearn
+matplot.pyplot
+plotly.graph
+warning
+statsmodels
+
 
 ## Results
-[Add your model results, accuracy metrics, and visualizations here]
+<img width="761" height="525" alt="newplot" src="https://github.com/user-attachments/assets/115b1e28-98b3-47c3-88ee-97cf0ac7588f" />
+<img width="761" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/8ea654f4-3499-48fc-b25f-20dbc451ca67" />
+<img width="1005" height="624" alt="AAPL_CLOSING_PRICES" src="https://github.com/user-attachments/assets/06e82dc7-e565-4396-b121-7b02cf56d565" />
+<img width="1005" height="624" alt="TESTING_FORCASTING_PRICES" src="https://github.com/user-attachments/assets/4b1f6d30-a8fb-4161-91db-1dd031f7aa18" />
+
 
 ## License
-[Add your license information here]
