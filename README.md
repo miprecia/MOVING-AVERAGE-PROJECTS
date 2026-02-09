@@ -1,6 +1,6 @@
 # MOVING-AVERAGE-PROJECTS
 
-## Project Overview
+## Project Overview (ARMA)
 Created an Auto-regressive moving average model, using 1-day and 5-day lag plots to analyze and forecast time series data.
 
 ## Description
